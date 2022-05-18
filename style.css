@@ -5,5 +5,8 @@ body {
  background-size: contain;
  background-position: center center;
  background-attachment: fixed;
-
+}
+.botão1 {
+ background-color: #19006b;
+ border-radius: 10px;
 }
