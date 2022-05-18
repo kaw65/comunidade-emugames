@@ -9,6 +9,7 @@ body {
 .botão1 {
  background-color: #19006b;
  border-radius: 30px;
- width: 110px;
- top: 75px;
+ width: 150px;
+ height: 60px;
+ top:500px;
 }
