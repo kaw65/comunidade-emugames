@@ -13,6 +13,12 @@ body {
  height: 60px;
  top:500px;
 }
+@font-face {
+  font-family: font1;
+  src: url(SuperMario256.ttf);
+}
+
 .text1 {
  color: white;
+ font-family: font1;
 }
