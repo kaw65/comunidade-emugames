@@ -19,6 +19,7 @@ body {
 }
 
 .text1 {
+ position: realative;
  color: white;
  font-family: font1;
  top: -60px;
