@@ -22,5 +22,6 @@ body {
  position: realative;
  color: white;
  font-family: font1;
- top: -250px;
+ text-align: center;
+ width: 40%;
 }
