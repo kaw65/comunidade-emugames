@@ -2,7 +2,7 @@ body {
  background-image: url("EmuGames (1).png");
  background-repeat: no-repeat;
  background-color: 5D17EB;
- background-size: cover;
+ background-size: contain;
  background-position: center center;
  background-attachment: fixed;
 
