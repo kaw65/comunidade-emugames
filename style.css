@@ -12,6 +12,7 @@ body {
  width: 240px;
  height: 100px;
  top:500px;
+ text-align: center;
 }
 @font-face {
   font-family: font1;
@@ -22,6 +23,5 @@ body {
  position: realative;
  color: white;
  font-family: font1;
- text-align: center;
- width: 40%;
+ font-size: 50%
 }
