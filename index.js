@@ -1,3 +1,3 @@
 function inviteserver() {
- window.replace = "http://www.w3schools.com";
+ location.replace = "http://www.w3schools.com";
 }
